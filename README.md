@@ -2,6 +2,8 @@
 
 This project is a simple implementation of Wolfram's Elementary Cellular Automata. The system is implemented in Java and allows to plot the evolution of an elementary automaton over time.
 
+![screenshot](https://user-images.githubusercontent.com/3193712/57648455-eabac480-759b-11e9-895e-4ba321c36d2c.png)
+
 ## Elementary Cellular Automaton
 
 An Elementary Cellular Automaton can be thought of a sequence of symbols (sometimes thought of as a row of cells) with the symbols 0 or 1 on it, or, in other words, the corresponding cell can be either "dead" or "alive".
